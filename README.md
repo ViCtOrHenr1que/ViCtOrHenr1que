@@ -25,3 +25,4 @@
 Adoro programar e desenvolver interfaces intuitivas, responsivas e com acessibilidade para todas as pessoas, gosto aprender novas tecnologias e amo realizar novos desafios.
 
 
+![snake gif](https://github.com/ViCtOrHenr1que/ViCtOrHenr1que/blob/output/github-contribution-grid-snake.svg)
