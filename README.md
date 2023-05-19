@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-7952b4211/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor.h_18/)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=ViCtOrHenr1que&show_icons=true&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia 
 
